@@ -1,0 +1,88 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/minecart.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/diamond_vanilla.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/debuff.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/elytra.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/speed.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/creeper.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/manhunt.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/diamond_smp.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/bow.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/bed.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/og_vanilla.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/s6b1/trident.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF00B"]
+    }
+  ]
+}

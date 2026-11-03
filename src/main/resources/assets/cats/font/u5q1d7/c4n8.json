@@ -1,0 +1,60 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/crystal.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/uhc.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/pot.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/neth_pot.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/smp.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/sword.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/axe.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "cats:font/u5q1d7/c4n8/mace.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": ["\uF007"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+package dev.virel.obf;
+
+import java.lang.reflect.InvocationHandler;
+import net.fabricmc.api.EnvType;
+import net.fabricmc.api.Environment;
+
+@Environment(EnvType.CLIENT)
+final class 111i implements InvocationHandler {
+}
