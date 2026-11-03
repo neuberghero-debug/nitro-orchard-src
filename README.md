@@ -1,18 +1,22 @@
-# Nitro Orchard 1.21.11
+# Nitro Orchard — 1.21.11 (decompiled)
 
-Decompiled sources of the Nitro Orchard 1.21.11 Fabric mod for Minecraft 1.21.11.
+Decompiled Java sources of the **Nitro Orchard** Fabric mod (mod id `ilovcats`)
+for Minecraft 1.21.11, produced with Vineflower.
 
-## Status
+## What's here
 
-These sources were produced by decompiling the released jar with
-[Vineflower](https://github.com/Vineflower/vineflower). They are provided
-for reference and auditing purposes. Decompiled code does not compile
-cleanly out of the box — names are synthetic, some constructs need manual
-cleanup, and bundled libraries are not separated.
+- `src/main/java` — 592 decompiled classes (`dev.hawk22e.core`, mixin set, assets tree)
+- `src/main/resources` — `fabric.mod.json`, mixin configs, fonts, shaders, sounds
 
-## Layout
+## Notes on completeness
 
-- `src/main/java` — decompiled Java sources
-- `src/main/resources` — assets, mixins config, fabric.mod.json
-- `build.gradle` / `gradle.properties` — standard Fabric Loom skeleton
-  as a starting point for reconstruction
+The jar ships with flow/string obfuscation, so a share of classes carries
+synthesized names (`aaaa…`) — this is how the classes exist inside the jar, not
+omitted content. Obfuscated control flow may decompile partially; that's inherent
+to the decompiler, not a redaction.
+
+Not buildable as-is; the Gradle files are a reconstruction skeleton only.
+
+## Purpose
+
+Reference and auditing. All rights belong to the original authors.
