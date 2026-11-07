@@ -1,7 +1,7 @@
 # Nitro Orchard — 1.21.11 (decompiled)
 
-Decompiled Java sources of the **Nitro Orchard** Fabric mod (mod id `ilovcats`)
-for Minecraft 1.21.11, produced with [Vineflower](https://github.com/Vineflower/vineflower).
+Nitro Orchard (mod id `ilovcats`) is a Fabric client for Minecraft 1.21.11.
+This repository is the shipped jar, decompiled with Vineflower.
 
 ## What's here
 
@@ -22,6 +22,11 @@ for Minecraft 1.21.11, produced with [Vineflower](https://github.com/Vineflower/
 The package tree is obfuscated in the original jar (`aaaaaea`, `aaaaady`, …).
 Names were left untouched so line numbers and stack traces still match the
 release. `core/client/mixin` holds the actual mixin set.
+
+## Installation
+
+Drop the release jar from the [Releases](../../releases) page into
+`.minecraft/mods` (Fabric Loader ≥ 0.16, Fabric API, Minecraft 1.21.11).
 
 ## Requirements
 
